@@ -16,9 +16,6 @@ Here is this section there file named:-
 5) billing page
 
 
-<h1>Sign Up<h1>
-![Capture](https://user-images.githubusercontent.com/95909861/165846563-c7b46440-eb2f-4f3e-8dbd-655d46c3150b.PNG)
-
 
 
 In this login/signup page language used -
