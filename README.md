@@ -3,13 +3,22 @@
 # MedPlusMart
 Date-19th Dec 2021
 
+![Capture](https://user-images.githubusercontent.com/95909861/165846144-eadfba41-c7d7-4bfa-8559-23c2ac67406f.PNG)
+
+
 Here is this section there file named:-
+
 
 1)login.html
 2) Homepage
 3) product detail page
 4) cart page
 5) billing page
+
+
+<h1>Sign Up<h1>
+  ![Capture](https://user-images.githubusercontent.com/95909861/165846464-7b013ad0-59be-46b3-90cc-54af42c408eb.PNG)
+
 
 In this login/signup page language used -
 
