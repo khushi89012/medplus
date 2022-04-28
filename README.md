@@ -17,7 +17,8 @@ Here is this section there file named:-
 
 
 <h1>Sign Up<h1>
-  ![Capture](https://user-images.githubusercontent.com/95909861/165846464-7b013ad0-59be-46b3-90cc-54af42c408eb.PNG)
+![Capture](https://user-images.githubusercontent.com/95909861/165846563-c7b46440-eb2f-4f3e-8dbd-655d46c3150b.PNG)
+
 
 
 In this login/signup page language used -
